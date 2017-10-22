@@ -1,0 +1,76 @@
+html {
+  background-color: #e6e6ff;
+}
+
+body {
+  background: none;
+  color: #e6e6ff;
+  font-family: Market Deco;
+}
+
+strong {
+  color: #e6e6ff;
+}
+
+.navbar {
+  background: #e6e6ff;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+background-color: Transparent;
+background-repeat:no-repeat;
+border: none;
+cursor:pointer;
+overflow: hidden
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e6e6ff;
+  border-color: #e6e6ff;
+}
+
+.card {
+  border-color: #e6e6ff;
+}
+
+.card-title {
+  color: #e6e6ff;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+body {
+  color: white;
+  background: url(../image/paris.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bg-primary {
+    background-color: #e6ebff !important;
+}
+
+.nav-link,.navbar-brand{
+  color: #ffffff
+}
+
+.display-3{
+  font-size: 70
+}
