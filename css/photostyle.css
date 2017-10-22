@@ -1,3 +1,23 @@
-img{
-	width: 300px
+.imgv{
+	max-width: 100%;
+}
+
+.imgh{
+	max-width: 100%;
+}
+
+.hello{
+	 font-family: Market Deco;
+	 text-align: center;
+	 font-size: 50px;
+}
+
+.bye{
+	 font-family: Market Deco;
+	 text-align: center;
+	 font-size: 30px;
+	}
+
+.fa-linkedin-square, .fa-twitter, .fa-facebook-square, .fa-spotify {
+	color: black;
 }
