@@ -20,29 +20,29 @@ strong {
   font-weight: 300;
   border: none;
   font-color: white;
+  outline: none;
 }
 
 .btn-primary{
-background-color: Transparent;
-background-repeat:no-repeat;
-border: none;
-cursor:pointer;
-overflow: hidden
-font-color: white;
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden
+  font-color: white;
 }
 
 .btn-lg {
-border: none;
-font-color: white;
+  border: none;
+  font-color: white;
 
 }
 
-.btn-primary:hover,
-.btn-primary:active,
-.btn-primary:focus,
-.btn-primary:active:focus {
+.btn.btn-primary.btn-lg:hover,
+.btn.btn-primary.btn-lg:active,
+.btn.btn-primary.btn-lg:focus,
+.btn.btn-primary.btn-lg:active:focus {
   background: rgba(230,230,255, 0.5);
-  border-color: #e6e6ff;
 }
 
 .card {
